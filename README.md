@@ -1,9 +1,4 @@
-app / theme / index.tsx
+Mui Theme On Next App Router Server : 
 
-Custom Theme :
-const theme = createTheme({
-direction: 'ltr',
-palette: {
-mode: 'light',
-},
-});
+app / theme / index.tsx
+layout.tsx
